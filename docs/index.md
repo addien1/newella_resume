@@ -20,7 +20,7 @@ Studying Data Science
 - Python
 - SQL
 - Excel
-- Other Microsoft Office products
+- Other Microsoft Office products (Maybe you can say here Microsoft Office, instead of Other )
 
 
 ## Work History
@@ -40,7 +40,7 @@ __Dietary Cook__, Madison Memorial Hospital
 
 ## Education
 
-`2016 - Current`
+`2016 - Current`(here you can actually add your expected time for graduation)
 __Data Science,__ Brigham Young University - Idaho
 Rexburg, ID
 - Statistics Minor
@@ -54,3 +54,4 @@ Rexburg, ID
 Last updated: May 2013 -->
 
 
+Good job in general. Your resume looks great!
