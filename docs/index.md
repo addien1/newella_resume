@@ -3,12 +3,11 @@ layout: cv
 title: Addie Newell's Resume
 ---
 # Addie Newell
-Studying Data Science
+Studying Data Science at Brigham Young University - Idaho
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
+<a href="datascience@byui.edu">datascience@byui.edu</a> <!-- This should be updated to your email -->
+| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a> <!-- This should be updated to your github -->
 | <a href="https://github.com/addien1">GitHub</a>
 </div>
 
